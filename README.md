@@ -8,6 +8,7 @@
 
 [Упражнение_1](PR1/Упражнение_1.ipynb) (делала в VS Code, тк в Google Colaboratory часть кодов не работали).
 [Схема для Упражнения 1](PR1/Упражнение_1.drawio.png)
+ Для выполнения кода необходимы файлы: [data-60789-2024-01-24.csv](PR1/data-60789-2024-01-24.csv), [movies.sqlite](PR1/movies.sqlite), [yellow_tripdata_2023-03.parquet](https://drive.google.com/file/d/1xdSjsqzNX3OFgNK-PtE4Kgh86DHDkJon/view?usp=drive_link)
 
 ## **Упражнение 2. Выполнить парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианта:**
 
