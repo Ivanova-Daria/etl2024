@@ -6,7 +6,7 @@
 
 ## **Упражнение 1. Работа на занятии (групповое выполнение задания).**
 
-[Упражнение_1](PR1/Упражнение_1.ipynb) (делала в VS Code, тк в Google Colaboratory часть кодов не работали).
+[Упражнение_1](PR1/Упражнение_1.ipynb)
 [Схема для Упражнения 1](PR1/Упражнение_1.drawio.png)
 
 Для выполнения кода необходимы файлы: [data-60789-2024-01-24.csv](PR1/data-60789-2024-01-24.csv), [movies.sqlite](PR1/movies.sqlite), [yellow_tripdata_2023-03.parquet](https://drive.google.com/file/d/1xdSjsqzNX3OFgNK-PtE4Kgh86DHDkJon/view?usp=drive_link)
@@ -15,7 +15,7 @@
 
 25 вариант.Проект Банка России по финансовой грамотности — https://fincult.info/ Подробнее на сайте Banki.ru https://www.banki.ru/news/lenta/?id=1093618
 
-[Упражнение_2](PR1/Упражнение_2.ipynb) (делала в VS Code, тк в Google Colaboratory часть кодов не работали).
+[Упражнение_2](PR1/Упражнение_2.ipynb) 
 [Схема для Упражнения 2](PR1/Упражнение_2.drawio.png)
 
 
@@ -24,5 +24,5 @@
 
 25 вариант. Торговля-3. Три датасета: [Нестационарные торговые объекты](https://data.mos.ru/opendata/620?pageSize=10&pageIndex=0), [Ярмарки выходного дня](https://data.mos.ru/opendata/620?isDynamic=false), [Стационарные торговые объекты](https://data.mos.ru/opendata/3304?isDynamic=false)
 
-[Упражнение_3](PR1/Упражнение_3.ipynb) (делала в VS Code, тк в Google Colaboratory часть кодов не работали).
+[Упражнение_3](PR1/Упражнение_3.ipynb) 
 [Схема для Упражнения 3](PR1/Упражнение_3.drawio.png)
